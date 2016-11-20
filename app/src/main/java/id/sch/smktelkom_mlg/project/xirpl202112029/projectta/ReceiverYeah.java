@@ -9,11 +9,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.widget.Toast;
 
-public class ReceiverYeah extends BroadcastReceiver
-{
+public class ReceiverYeah extends BroadcastReceiver {
     @Override
-    public void onReceive(Context c, Intent arg1)
-    {
+    public void onReceive(Context c, Intent arg1) {
         Toast.makeText(c, "Waktu Mengajar Anda Telah Tiba", Toast.LENGTH_LONG).show();
     }
 }
