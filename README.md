@@ -2,13 +2,15 @@
 
 Aplikasi ini berfungsi sebagai pengingat waktu mengajar bagi para guru.
 
-![GitHub Logo](https://docs.google.com/uc?id=0Bx0Jh8IrvMVYRlJ5eTlnbW1MOHM)
-![GitHub Logo](https://docs.google.com/uc?id=0Bx0Jh8IrvMVYZ3ZGNndRd1E3U3M)
-![GitHub Logo](https://docs.google.com/uc?id=0Bx0Jh8IrvMVYMmFiSnlPTF9iOEk)
+![GitHub Logo](https://docs.google.com/uc?id=0BxelwmeHfm14LVZjZGZ0V2dCRE0)
+![GitHub Logo](https://docs.google.com/uc?id=0BxelwmeHfm14cjRqMjRPa2NlbFU)
+![GitHub Logo](https://docs.google.com/uc?id=0BxelwmeHfm14QU9xWHBxRGNLa28)
 
-Link Video : https://drive.google.com/open?id=0Bx0Jh8IrvMVYVkNEeEV3VXRoc3M
+Video :
 
-Link Apk : https://drive.google.com/open?id=0Bx0Jh8IrvMVYZlVfbDViVDlscHc
+[![IMAGE ALT TEXT HERE](https://docs.google.com/uc?id=0BxelwmeHfm14LVZjZGZ0V2dCRE0)](https://www.youtube.com/watch?v=sAcmOUTunVk)
+
+Link Apk : https://drive.google.com/open?id=0BxelwmeHfm14eWxFNG5Wd1U1VTQ
 
 Identitas Kelompok :
 
